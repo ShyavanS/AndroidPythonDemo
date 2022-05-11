@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Python Demo</string>
+    <string name="enter_a_value">Enter a value:</string>
+    <string name="see_result">See Result</string>
+    <string name="result">Result</string>
+    <string name="number_field">Enter a number</string>
+    <string name="enter_a_message_to_be_encrypted">Enter a message to be encrypted:</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="text_to_be_encrypted">Text to be encrypted</string>
+    <string name="enter_a_message">Enter a message</string>
+</resources>
